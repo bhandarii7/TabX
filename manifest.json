@@ -1,0 +1,13 @@
+{
+    "name": "Social Button",
+    "version":"0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup":"index.html",
+        "default_icon":"logo.jfif"
+    },
+    "icons":{
+        "128":"logo.jfif"
+    },
+    "permission":["activeTab"]
+}

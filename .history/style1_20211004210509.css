@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box{
+    background-image: linear-gradient(to right,#4b6cb7,#182848);
+}
+.button{
+    display: flex;
+}

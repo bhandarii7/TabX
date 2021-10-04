@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: rgba(255, 255, 255, 0.925);
+}
+h1{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box{
+    background-image: linear-gradient(to right,#232526,#414345);
+}
+.button{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    text-align: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+li :hover{
+    height: 60px;
+    width: 60px; 
+    cursor: pointer;
+}

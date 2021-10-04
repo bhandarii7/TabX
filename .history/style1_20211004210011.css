@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+}
+h1{
+    padding: 20px;
+}
+.box{
+    background-image: linear-gradient(to right,#4b6cb7,#182848);
+}

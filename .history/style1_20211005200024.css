@@ -2,16 +2,21 @@
     margin: 0%;
     padding: 0%;
     color: rgba(255, 255, 255, 0.925);
+<<<<<<< HEAD
+=======
     font-family: 'Roboto', sans-serif;
-
+>>>>>>> 7e5cc26fef26754f4a5ae101876866971897a6eb
 }
 
 h1{
     padding-top: 20px;
+<<<<<<< HEAD
     padding-bottom: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+=======
     padding-bottom: 10px;  
     text-align: center;  
+>>>>>>> 7e5cc26fef26754f4a5ae101876866971897a6eb
 }
 
 .box{

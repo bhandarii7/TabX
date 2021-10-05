@@ -1,13 +1,16 @@
 {
     "name": "Social Button",
+    "description": "Share your URL hassle free.",
     "version":"0.0.1",
     "manifest_version": 2,
     "browser_action":{
         "default_popup":"index.html",
-        "default_icon":"logo.jfif"
+        "default_icon":"logo.jpg"
     },
     "icons":{
-        "128":"logo.jfif"
+        "128":"logo.jpg"
     },
-    "permission":["activeTab"]
+    "permissions":["activeTab",
+        "tabs"
+    ]
 }

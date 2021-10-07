@@ -54,7 +54,7 @@ Dekha aapne laparvaahi ka natijaa??
   git clone [URL]
 ```
 
-- Open chrome 
+- Open chrome or any other preferred browser
 
 - Go to more tools and then click extension
 
@@ -70,7 +70,7 @@ Dekha aapne laparvaahi ka natijaa??
 *Alright you are all set*
 ## How to use
 
-- Open any webpage on chrome
+- Open any webpage on any preferred browser
 
 - Click on extension from pinned extensions
 
@@ -81,7 +81,7 @@ Dekha aapne laparvaahi ka natijaa??
 
 
   
-## Contributers
+## Contributors
 
  Yash Bhandari
 

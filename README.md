@@ -69,7 +69,7 @@ Dekha aapne laparvaahi ka natijaa??
 *Alright you are all set*
 ## How to use
 
-- Open any webpage on chrome
+- Open any webpage on the preferred browser
 
 - Click on extension from pinned extensions
 

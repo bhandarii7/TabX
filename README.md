@@ -93,6 +93,6 @@ Dekha aapne laparvaahi ka natijaa??
 
  
 
-Hours and Hours of discussion starting RIGHT from deciding the topic(Decided on second last day of submission;)) to the successful working of the project has lead to this site been made...
+Hours and Hours of discussion starting RIGHT from deciding the topic(Decided on second last day of submission;)) to the successful working of the project has lead to this site been made. We thank our organisers for this opportunity.
 
   
